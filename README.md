@@ -1,3 +1,4 @@
+![Picsart_23-03-05_22-03-59-343](https://user-images.githubusercontent.com/126949734/222983240-37fecf1e-dd7c-4baa-88a1-1a281a0328ce.jpg)
 # Docs
 
 ```
@@ -19,4 +20,4 @@ bot.run();
 
 # ver: 0.0.3
 
-# LICENS - MIT
+# LICENS - MIY
