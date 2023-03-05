@@ -1,17 +1,22 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "discordal",
+  "version": "0.0.3",
+  "description": "Эта библиотека помагает больше сконцетрироваться над функционалом бота нежели конфигурационной настройки боиа.",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyShipGroup/discord-albania.git"
+  },
+  "author": "albania",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkyShipGroup/discord-albania/issues"
+  },
+  "homepage": "https://github.com/SkyShipGroup/discord-albania#readme",
   "dependencies": {
-    "@types/node": "^18.0.6",
-    "js-albania": "^0.0.4",
-    "node-fetch": "^3.2.6"
+    "discord.js": "^14.7.1"
   }
 }
