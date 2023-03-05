@@ -1,12 +1,22 @@
-# Using
-```
-const { data } = require('js-albania');
-const fs = require('fs')
+# Docs
 
-console.log(data)
+```
+const { Bot } = require('.src/structures/bot');
+
+const client = new Bot({
+    token: " ",
+    prefix: " ",
+    intents: ["GUILDS", "GUILDS_MESSAGE"]
+});
+
+bot.run();
 ```
 
-# Instalation
-```
-npm i js-albania
-```
+# custom func(not using)
+
+`newTick()`
+`permsCheck()`
+
+# ver: 0.0.3
+
+# LICENS - MIT
